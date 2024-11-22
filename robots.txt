@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+
+Sitemap: https://asummerz.github.io/dDayCalculator/sitemap.xml
